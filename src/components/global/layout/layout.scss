@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    padding: 40px;
+    .main-sidebar{
+        width: 200px;
+    }
+
+    .mainarea{
+        padding: 0 30px;
+        width: calc(100% - 200px);
+    }
+}
